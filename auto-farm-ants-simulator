@@ -1,2 +1,2 @@
 local plr = game.Players.LocalPlayer
-plr:Kick()
+plr:Kick(You Got Banned From Game!)
