@@ -1,2 +1,0 @@
-local player = game.Players.LocalPlayer
-player:Kick("You Got Banned From This Game!")
