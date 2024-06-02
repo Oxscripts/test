@@ -1,1 +1,1 @@
-print("seks")
+    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(workspace.Pickups.Model.Part.Position)
